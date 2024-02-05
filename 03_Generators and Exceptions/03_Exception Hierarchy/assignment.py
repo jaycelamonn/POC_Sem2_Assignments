@@ -8,7 +8,6 @@ except ValueError:
     print(int) 
     
 
-
 try:
     answer = number1 / number2
     print("The division of number1, "and" number2") 
